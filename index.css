@@ -1,0 +1,57 @@
+#error{
+    display:none;
+    font-size: small;
+    font-weight: bold;
+}
+.register{
+    background-color: #1AEEBB;
+}
+.sign-up{
+    background-color: #F318EC;
+    border-radius: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-weight:bold;
+    box-shadow: 1px 1px 4px;
+}
+.title{
+    text-shadow: 1px 1px 2px;
+    border:none;
+}
+
+.sign-in{
+    background-color: #3A7164;
+    border-radius: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-weight:bold;
+    box-shadow: 1px 2px 4px;
+}
+.container{
+    width:60%;
+}
+img{
+    opacity: 0.2;
+}
+.welcome{
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+    margin-top: -70px;
+}
+.titleLogin{
+    color:#F318EC;
+    text-shadow: 1px 1px 2px;
+    text-align: center;
+    
+}
+.forgot{
+    font-size: small;
+    margin-top: -10px;
+
+}
+#lerror{
+        display:none;
+        font-size: small;
+        font-weight: bold;
+}
